@@ -3,5 +3,5 @@ Simple python implementation of linear regression on a trained dataset to predic
 
 Current Issues
  - Does not have an API for user interaction 
- - Randomness of test dataset
+ - Ensuring randomness of test dataset
 
